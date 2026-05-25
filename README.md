@@ -556,7 +556,7 @@ pip install -r requirements.txt
 
 ## 6. Configurar Variáveis de Ambiente
 
-Criar arquivo .env
+Modificar o arquivo ```.env-modelo```, incluindo a chave e url, e mudando o nome do arquivo para para ```.env```.
 ```
 OPENAI_API_KEY=SUA_CHAVE
 OPENAI_BASE_URL=SUA_URL

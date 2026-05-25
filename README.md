@@ -525,7 +525,7 @@ git clone URL_DO_REPOSITORIO
 
 ## 2. Entrar na Pasta
 ```
-cd jarvis-academico
+cd trabalhoIA_parte1
 ```
 
 ## 3. Criar Ambiente Virtual

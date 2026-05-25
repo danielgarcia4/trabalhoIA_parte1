@@ -5,3 +5,6 @@ logs/
 data/chroma/
 *.pyc
 .pytest_cache
+data/agenda.db
+data/performance.db
+data/tasks.db

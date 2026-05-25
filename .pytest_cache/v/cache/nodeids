@@ -1,0 +1,6 @@
+[
+  "tests/test_active_recall.py::test_gerar_pergunta",
+  "tests/test_learning.py::test_gerar_exercicios",
+  "tests/test_rag.py::test_chunking",
+  "tests/test_tasks.py::test_add_task"
+]
